@@ -740,11 +740,11 @@
       "type": "lineHeights"
     },
     "heading": {
-      "value": "Inter",
+      "value": "Montserrat",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Inter",
+      "value": "Montserrat",
       "type": "fontFamilies"
     },
     "heading-text": {
